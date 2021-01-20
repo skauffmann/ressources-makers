@@ -41,8 +41,8 @@ Une liste organisée de super blogs, livres, podcasts, videos et newsletters pou
 
 ## Podcasts
 
+- [IFTTD - If This Then Dev](https://ifttd.io/) - c’est le podcast D.E.V. : Différent, Extraordinaire et Visionnaire, où on décode les sujets et tendances dans l’univers de l’innovation et des technologies.
 - [IndieMakers](https://indiemakers.fr/) - Le podcast pour lancer sa startup en indépendant
 - [Lance toi et code](https://lancetoietcode.fr) - Profitez des retours d’expérience d’entrepreneurs qui ont surmonté les épreuves de la création de leur start-up et qui partagent avec vous tous leurs conseils !
-- [TheMatureDev](https://www.themature.dev/) - Le podcast Mature Dev aide les développeurs à lancer leur propre projet et à en vivre en générant des revenus récurrents.
 - [Marketing Mania](https://marketingmania.fr/podcast/) - Le podcast qui vous fait entrer dans le monde caché des entrepreneurs du web
-- [IFTTD - If This Then Dev](https://ifttd.io/) - c’est le podcast D.E.V. : Différent, Extraordinaire et Visionnaire, où on décode les sujets et tendances dans l’univers de l’innovation et des technologies.
+- [TheMatureDev](https://www.themature.dev/) - Le podcast Mature Dev aide les développeurs à lancer leur propre projet et à en vivre en générant des revenus récurrents.
