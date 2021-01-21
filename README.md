@@ -41,6 +41,7 @@ Une liste organisée de super blogs, livres, podcasts, videos et newsletters pou
 
 ## Podcasts
 
+- [Age Of Makers](https://anchor.fm/ageofmakers) - Podcast dédié aux makers qui souhaitent lancer un business.
 - [IFTTD - If This Then Dev](https://ifttd.io/) - c’est le podcast D.E.V. : Différent, Extraordinaire et Visionnaire, où on décode les sujets et tendances dans l’univers de l’innovation et des technologies.
 - [IndieMakers](https://indiemakers.fr/) - Le podcast pour lancer sa startup en indépendant
 - [Lance toi et code](https://lancetoietcode.fr) - Profitez des retours d’expérience d’entrepreneurs qui ont surmonté les épreuves de la création de leur start-up et qui partagent avec vous tous leurs conseils !
